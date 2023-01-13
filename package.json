@@ -1,0 +1,27 @@
+{
+  "name": "myfirstrepository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosipBosnjak/MyFirstRepository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/JosipBosnjak/MyFirstRepository/issues"
+  },
+  "homepage": "https://github.com/JosipBosnjak/MyFirstRepository#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
