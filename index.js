@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 
 app.listen(3000, () => {
   console.log(typeof "");
-  let polje = [1, 2, 3, 4];
+  let polje = [1, 2, 3, 6];
   let polje2 = [];
   polje.forEach((broj) => {
     polje2.push(broj);
